@@ -1,0 +1,29 @@
+{
+  "term": "Spring",
+  "year": "2028",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-5"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-5"
+  },
+  "course_title": "course-5",
+  "course_description": "course-5",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-5"
+  },
+  "learning_resource_types": [],
+  "site_uid": "50914f81-13cc-41f0-a252-0ec80b792894",
+  "site_short_id": "course-5"
+}
